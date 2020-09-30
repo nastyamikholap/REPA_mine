@@ -1,2 +1,2 @@
-myfirstprogram.java
- myfirstprogram
+sandbox_package/myfirstprogram.java
+ sandbox_package.myfirstprogram
