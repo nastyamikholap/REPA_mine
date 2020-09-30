@@ -1,10 +1,11 @@
-
+package testpackage;
 
 import org.testng.annotations.Test;
 
 public class Testcase {
+
 @Test
-    void setupcase()
+  public void testArea()
             {System.out.println("Test case test");
             }
 }
